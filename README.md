@@ -14,8 +14,8 @@ It includes:
  ## ❗ Problem Statement
 
 Credit card fraud is a major issue in digital payments, where fraudulent transactions are very rare compared to genuine ones. This creates a highly imbalanced dataset, making detection challenging.
-
 The goal of this project is to accurately detect fraudulent transactions while minimizing false negatives (missed fraud cases).
+
 ---
 
 ## 🚀 Features
