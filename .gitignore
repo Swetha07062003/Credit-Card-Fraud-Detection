@@ -3,6 +3,5 @@ __pycache__/
 *.pyc
 *.pkl
 *.csv
-outputs/
 .ipynb_checkpoints/
 .DS_Store
